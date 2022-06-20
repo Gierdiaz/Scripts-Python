@@ -1,0 +1,5 @@
+print("====== DESAFIO 02 ======")
+dia = input("Informe o dia em que nasceu: ")
+mês = input("Informe o mês em que nasceu: ")
+ano = input("Informe o ano em que nasceu: ")
+print("A data do seu nascimento é {}/{}/{}".format(dia, mês, ano))
